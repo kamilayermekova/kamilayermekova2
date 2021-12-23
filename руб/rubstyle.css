@@ -1,0 +1,56 @@
+a {
+	text-decoration: ;
+}
+
+
+input {
+
+}
+.cop {
+	font-size: 13px;
+}
+button {
+	
+	border-color: #DCDCDC;
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+}
+
+.txt {
+	border-radius: 3px;
+	border-color: #DCDCDC;
+}
+img {
+	width: 300px;
+	height: 150px;
+}
+.bea {
+	border: none;
+	background-color: #ec644e;
+	font-size: 36px;
+	padding: 10px 16px;
+	border-radius: 8px;
+	box-shadow: 0 4px #d95a46;
+	cursor: pointer;
+	user-select: none;
+	appearance: none;
+	touch-action: manipulation;  
+	vertical-align: top;
+	color: white;
+	font-family: bakbak one;
+	font-style: bold;
+	text-align: center;
+}
+.pod {
+	background-color: #a15b35;
+	color: white;
+	font-size: 20px;
+	border-radius: 32px;
+	box-shadow: #874724;
+	text-align: center;
+	text-decoration: none;
+    display: inline-block;
+	padding: 15px 32px;
+	font-style: bold;
+	border: 3px solid #874724;
+}
